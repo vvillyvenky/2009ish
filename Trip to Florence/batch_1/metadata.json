@@ -1,0 +1,70 @@
+{
+  "title": "Trip to Florence",
+  "description": "",
+  "access": "protected",
+  "date": {
+    "timestamp": "1464551912",
+    "formatted": "May 29, 2016, 7:58:32 PM UTC"
+  },
+  "enrichments": [{
+    "mapEnrichment": {
+      "origin": [{
+        "name": "Wilsonville",
+        "description": "Oregon",
+        "latitudeE7": 452998418,
+        "longitudeE7": -1227737062
+      }],
+      "destination": [{
+        "name": "Lane County",
+        "description": "Oregon",
+        "latitudeE7": 439610092,
+        "longitudeE7": -1226618227
+      }]
+    }
+  }, {
+    "locationEnrichment": {
+      "location": [{
+        "name": "Lane County",
+        "description": "Oregon",
+        "latitudeE7": 439610092,
+        "longitudeE7": -1226618227
+      }]
+    }
+  }, {
+    "locationEnrichment": {
+      "location": [{
+        "name": "Florence",
+        "description": "Oregon",
+        "latitudeE7": 439826214,
+        "longitudeE7": -1240998409
+      }]
+    }
+  }, {
+    "locationEnrichment": {
+      "location": [{
+        "name": "Heceta Head Lighthouse",
+        "description": "Florence",
+        "latitudeE7": 441374002,
+        "longitudeE7": -1241280948
+      }]
+    }
+  }, {
+    "locationEnrichment": {
+      "location": [{
+        "name": "Sea Lion Caves",
+        "description": "Florence",
+        "latitudeE7": 441217891,
+        "longitudeE7": -1241266613
+      }]
+    }
+  }, {
+    "locationEnrichment": {
+      "location": [{
+        "name": "Thor's Well",
+        "description": "",
+        "latitudeE7": 442784150,
+        "longitudeE7": -1241135252
+      }]
+    }
+  }]
+}

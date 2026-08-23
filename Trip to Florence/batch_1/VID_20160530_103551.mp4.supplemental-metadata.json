@@ -1,0 +1,36 @@
+{
+  "title": "VID_20160530_103551.mp4",
+  "description": "",
+  "imageViews": "15",
+  "creationTime": {
+    "timestamp": "1465099492",
+    "formatted": "Jun 5, 2016, 4:04:52 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1464629751",
+    "formatted": "May 30, 2016, 5:35:51 PM UTC"
+  },
+  "geoData": {
+    "latitude": 44.1209,
+    "longitude": -124.12689999999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 44.1209,
+    "longitude": -124.12689999999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipM54_1W2rw-hmkJomlA7ESoNj2Q5_gQBELfqNTB",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
