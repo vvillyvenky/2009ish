@@ -1,0 +1,29 @@
+{
+  "title": "IMG_20170827_145343.jpg",
+  "description": "",
+  "imageViews": "56",
+  "creationTime": {
+    "timestamp": "1503933290",
+    "formatted": "Aug 28, 2017, 3:14:50 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1503870825",
+    "formatted": "Aug 27, 2017, 9:53:45 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMAGdEEA8SpnZriH_ab3nuIa19AC-IWzWVQI_v5",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
