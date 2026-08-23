@@ -1,0 +1,37 @@
+{
+  "title": "IMG_20170312_143920.jpg",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1489354787",
+    "formatted": "Mar 12, 2017, 9:39:47 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1489354761",
+    "formatted": "Mar 12, 2017, 9:39:21 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5396611,
+    "longitude": -122.8768333,
+    "altitude": -0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5396611,
+    "longitude": -122.8768333,
+    "altitude": -0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "archived": true,
+  "url": "https://photos.google.com/photo/AF1QipMioj1G-ckeY7LJqpTTyAavbJsN8fk1KgFDD_T0",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

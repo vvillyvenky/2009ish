@@ -1,0 +1,30 @@
+{
+  "title": "20221114_093051.mp4",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1668676020",
+    "formatted": "Nov 17, 2022, 9:07:00 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1668398509",
+    "formatted": "Nov 14, 2022, 4:01:49 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "archived": true,
+  "url": "https://photos.google.com/photo/AF1QipOShKSH_p1YWz5EVGk0oSO9A-fNJrW1LOiFyEpi",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

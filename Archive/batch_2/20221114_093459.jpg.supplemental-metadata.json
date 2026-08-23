@@ -1,0 +1,30 @@
+{
+  "title": "20221114_093459.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1668675955",
+    "formatted": "Nov 17, 2022, 9:05:55 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1668398699",
+    "formatted": "Nov 14, 2022, 4:04:59 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "archived": true,
+  "url": "https://photos.google.com/photo/AF1QipOOTkFdti0HGY8QrLXXIFX9lKkyGPklq3Q-Y4ta",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
