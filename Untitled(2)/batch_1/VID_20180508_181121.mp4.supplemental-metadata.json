@@ -1,0 +1,36 @@
+{
+  "title": "VID_20180508_181121.mp4",
+  "description": "",
+  "imageViews": "81",
+  "creationTime": {
+    "timestamp": "1525830466",
+    "formatted": "May 9, 2018, 1:47:46 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1525828281",
+    "formatted": "May 9, 2018, 1:11:21 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.532799999999995,
+    "longitude": -122.87419999999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.532799999999995,
+    "longitude": -122.87419999999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNLqwPCbtSqWE-p433aYc7obPUq20yCoCvh_ta0",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
