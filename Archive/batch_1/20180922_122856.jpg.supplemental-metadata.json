@@ -1,0 +1,30 @@
+{
+  "title": "20180922_122856.jpg",
+  "description": "",
+  "imageViews": "21",
+  "creationTime": {
+    "timestamp": "1537644561",
+    "formatted": "Sep 22, 2018, 7:29:21 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1537644536",
+    "formatted": "Sep 22, 2018, 7:28:56 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "archived": true,
+  "url": "https://photos.google.com/photo/AF1QipMxCPq5Lini-WsaSvt-ifSPYMm-z2NCNds1rhu3",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

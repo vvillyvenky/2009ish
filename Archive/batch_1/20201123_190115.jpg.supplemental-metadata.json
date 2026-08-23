@@ -1,0 +1,30 @@
+{
+  "title": "20201123_190115.jpg",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1615726058",
+    "formatted": "Mar 14, 2021, 12:47:38 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1606138275",
+    "formatted": "Nov 23, 2020, 1:31:15 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "archived": true,
+  "url": "https://photos.google.com/photo/AF1QipPSJi9ETOK4gk1JTXTScYtJI4O8m6DRUqTIeisE",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "20200910_230538.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1600610361",
+    "formatted": "Sep 20, 2020, 1:59:21 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1599759338",
+    "formatted": "Sep 10, 2020, 5:35:38 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "archived": true,
+  "url": "https://photos.google.com/photo/AF1QipPjJVbhFoSMDZz7lvHHICNPWHocCsG3N84cStra",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

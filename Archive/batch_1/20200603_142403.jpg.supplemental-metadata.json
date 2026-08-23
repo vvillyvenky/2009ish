@@ -1,0 +1,30 @@
+{
+  "title": "20200603_142403.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1591445769",
+    "formatted": "Jun 6, 2020, 12:16:09 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1591174443",
+    "formatted": "Jun 3, 2020, 8:54:03 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "archived": true,
+  "url": "https://photos.google.com/photo/AF1QipPcHGSoSYdVB5YN6RwT9lqg2u2CB7wSKTU53HGO",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "20200209_143145.jpg",
+  "description": "",
+  "imageViews": "10",
+  "creationTime": {
+    "timestamp": "1581489450",
+    "formatted": "Feb 12, 2020, 6:37:30 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1581238905",
+    "formatted": "Feb 9, 2020, 9:01:45 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "archived": true,
+  "url": "https://photos.google.com/photo/AF1QipP8doCLpNhPqKy7m42kWCOUmuppvwXbI2ivTt3f",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

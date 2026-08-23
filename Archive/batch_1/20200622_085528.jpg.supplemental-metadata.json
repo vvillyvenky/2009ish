@@ -1,0 +1,30 @@
+{
+  "title": "20200622_085528.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1594002279",
+    "formatted": "Jul 6, 2020, 2:24:39 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1592796328",
+    "formatted": "Jun 22, 2020, 3:25:28 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "archived": true,
+  "url": "https://photos.google.com/photo/AF1QipMchp7DGOO3YzIpvQ-9xSbG-5kilnAOVtbwbjBl",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

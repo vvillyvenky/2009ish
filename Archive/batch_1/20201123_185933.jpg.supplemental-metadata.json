@@ -1,0 +1,30 @@
+{
+  "title": "20201123_185933.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1615726050",
+    "formatted": "Mar 14, 2021, 12:47:30 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1606138173",
+    "formatted": "Nov 23, 2020, 1:29:33 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "archived": true,
+  "url": "https://photos.google.com/photo/AF1QipNGLq475sayTVoRL4LVEvVv87FdIzGufESXspXM",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

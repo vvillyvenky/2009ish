@@ -1,0 +1,30 @@
+{
+  "title": "20190626_094923.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1562151423",
+    "formatted": "Jul 3, 2019, 10:57:03 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1561522763",
+    "formatted": "Jun 26, 2019, 4:19:23 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "archived": true,
+  "url": "https://photos.google.com/photo/AF1QipNWVzIJILdgdQwdunDvW7qkX5BS-GfCkkXyQreH",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

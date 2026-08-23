@@ -1,0 +1,30 @@
+{
+  "title": "20191128_205225.jpg",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1578477913",
+    "formatted": "Jan 8, 2020, 10:05:13 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1574954545",
+    "formatted": "Nov 28, 2019, 3:22:25 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "archived": true,
+  "url": "https://photos.google.com/photo/AF1QipOr2sAC_vp0LbAkOLyax4ycX7_T9T0hnUTQR2zm",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
