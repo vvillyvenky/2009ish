@@ -1,0 +1,25 @@
+{
+  "title": "IMG_1024.JPG",
+  "description": "",
+  "imageViews": "10",
+  "creationTime": {
+    "timestamp": "1216501659",
+    "formatted": "Jul 19, 2008, 9:07:39 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1215294327",
+    "formatted": "Jul 5, 2008, 9:45:27 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNDusIMEZcyP_7Lk5znNh8K0KKcideN7G5dgN7Q",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}
