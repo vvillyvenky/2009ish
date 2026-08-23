@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170415_161712.jpg",
+  "description": "",
+  "imageViews": "42",
+  "creationTime": {
+    "timestamp": "1492840133",
+    "formatted": "Apr 22, 2017, 5:48:53 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1492298234",
+    "formatted": "Apr 15, 2017, 11:17:14 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.118797199999996,
+    "longitude": -122.7446083,
+    "altitude": 51.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.118797199999996,
+    "longitude": -122.7446083,
+    "altitude": 51.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOJ1jVvdE9XAcP4WEENHy8AqbCZE0_t_kfxJfdL",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
