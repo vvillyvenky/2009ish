@@ -1,0 +1,46 @@
+{
+  "title": "Sunday in Coconino County",
+  "description": "",
+  "access": "protected",
+  "date": {
+    "timestamp": "1462128309",
+    "formatted": "May 1, 2016, 6:45:09 PM UTC"
+  },
+  "enrichments": [{
+    "locationEnrichment": {
+      "location": [{
+        "name": "Grand Canyon Village",
+        "description": "Arizona",
+        "latitudeE7": 360544445,
+        "longitudeE7": -1121401108
+      }]
+    }
+  }, {
+    "locationEnrichment": {
+      "location": [{
+        "name": "Coconino County",
+        "description": "Arizona",
+        "latitudeE7": 356647545,
+        "longitudeE7": -1114752851
+      }]
+    }
+  }, {
+    "locationEnrichment": {
+      "location": [{
+        "name": "Desert View Watchtower",
+        "description": "Grand Canyon Village",
+        "latitudeE7": 360441224,
+        "longitudeE7": -1118261173
+      }]
+    }
+  }, {
+    "locationEnrichment": {
+      "location": [{
+        "name": "Moran Point",
+        "description": "Grand Canyon Village",
+        "latitudeE7": 360051566,
+        "longitudeE7": -1119242814
+      }]
+    }
+  }]
+}
