@@ -1,0 +1,37 @@
+{
+  "title": "IMG_20171006_212532.jpg",
+  "description": "",
+  "imageViews": "31",
+  "creationTime": {
+    "timestamp": "1507351469",
+    "formatted": "Oct 7, 2017, 4:44:29 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1507350335",
+    "formatted": "Oct 7, 2017, 4:25:35 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.536822199999996,
+    "longitude": -122.86954999999999,
+    "altitude": 52.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.536822199999996,
+    "longitude": -122.86954999999999,
+    "altitude": 52.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "archived": true,
+  "url": "https://photos.google.com/photo/AF1QipM67lZdC7zzt3UhqURf4jsRYN7WT6ifKPr1gqVv",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "IMG_20171019_195125.jpg",
+  "description": "",
+  "imageViews": "26",
+  "creationTime": {
+    "timestamp": "1508422934",
+    "formatted": "Oct 19, 2017, 2:22:14 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1508422886",
+    "formatted": "Oct 19, 2017, 2:21:26 PM UTC"
+  },
+  "geoData": {
+    "latitude": 11.0080861,
+    "longitude": 76.9418639,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 11.0080861,
+    "longitude": 76.9418639,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "archived": true,
+  "url": "https://photos.google.com/photo/AF1QipNs5YAGvRVgdblENkUKJx6H8j5fqUJuipUQ9ao0",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

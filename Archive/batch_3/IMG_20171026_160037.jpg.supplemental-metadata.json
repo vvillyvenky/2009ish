@@ -1,0 +1,37 @@
+{
+  "title": "IMG_20171026_160037.jpg",
+  "description": "",
+  "imageViews": "17",
+  "creationTime": {
+    "timestamp": "1509029209",
+    "formatted": "Oct 26, 2017, 2:46:49 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1509013837",
+    "formatted": "Oct 26, 2017, 10:30:37 AM UTC"
+  },
+  "geoData": {
+    "latitude": 13.0383639,
+    "longitude": 80.25669719999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 13.0383639,
+    "longitude": 80.25669719999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "archived": true,
+  "url": "https://photos.google.com/photo/AF1QipO6rPcayw8htp73x8DmejF_0_AA7-Glm4magdv2",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

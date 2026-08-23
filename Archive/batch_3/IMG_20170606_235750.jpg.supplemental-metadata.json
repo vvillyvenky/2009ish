@@ -1,0 +1,37 @@
+{
+  "title": "IMG_20170606_235750.jpg",
+  "description": "",
+  "imageViews": "25",
+  "creationTime": {
+    "timestamp": "1496818692",
+    "formatted": "Jun 7, 2017, 6:58:12 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1496818672",
+    "formatted": "Jun 7, 2017, 6:57:52 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5321639,
+    "longitude": -122.87476939999999,
+    "altitude": 76.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5321639,
+    "longitude": -122.87476939999999,
+    "altitude": 76.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "archived": true,
+  "url": "https://photos.google.com/photo/AF1QipOQNrKT_jV21mYibmOj-4jlfC-0imRPN1aMC8h9",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

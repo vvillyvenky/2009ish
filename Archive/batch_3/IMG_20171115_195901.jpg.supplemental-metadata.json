@@ -1,0 +1,37 @@
+{
+  "title": "IMG_20171115_195901.jpg",
+  "description": "",
+  "imageViews": "16",
+  "creationTime": {
+    "timestamp": "1510756200",
+    "formatted": "Nov 15, 2017, 2:30:00 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1510756142",
+    "formatted": "Nov 15, 2017, 2:29:02 PM UTC"
+  },
+  "geoData": {
+    "latitude": 13.025125,
+    "longitude": 80.25698609999999,
+    "altitude": -143.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 13.025125,
+    "longitude": 80.25698609999999,
+    "altitude": -143.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "archived": true,
+  "url": "https://photos.google.com/photo/AF1QipPaBHhvD_g84NvgLlHIvFoVdSiUbvpOJXfw4KYL",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

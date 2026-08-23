@@ -1,0 +1,37 @@
+{
+  "title": "IMG_20180209_222115.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1518195140",
+    "formatted": "Feb 9, 2018, 4:52:20 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1518195076",
+    "formatted": "Feb 9, 2018, 4:51:16 PM UTC"
+  },
+  "geoData": {
+    "latitude": 13.0385806,
+    "longitude": 80.21405829999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 13.0385806,
+    "longitude": 80.21405829999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "archived": true,
+  "url": "https://photos.google.com/photo/AF1QipMFvWJ7FZTKJ5Kars908KZe0vD864V_kHJlG5bD",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

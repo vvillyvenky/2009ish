@@ -1,0 +1,37 @@
+{
+  "title": "IMG_20170522_084827.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1495528370",
+    "formatted": "May 23, 2017, 8:32:50 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1495468108",
+    "formatted": "May 22, 2017, 3:48:28 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.538902799999995,
+    "longitude": -122.87773059999998,
+    "altitude": -0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.538902799999995,
+    "longitude": -122.87773059999998,
+    "altitude": -0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "archived": true,
+  "url": "https://photos.google.com/photo/AF1QipO6F3zUp21fQyZpEc0b28H36DqWHAJVOiDtXNpd",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

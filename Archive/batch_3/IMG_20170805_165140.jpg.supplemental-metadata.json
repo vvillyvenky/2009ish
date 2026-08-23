@@ -1,0 +1,37 @@
+{
+  "title": "IMG_20170805_165140.jpg",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1501989430",
+    "formatted": "Aug 6, 2017, 3:17:10 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1501977102",
+    "formatted": "Aug 5, 2017, 11:51:42 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.532161099999996,
+    "longitude": -122.87480829999998,
+    "altitude": 69.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.532161099999996,
+    "longitude": -122.87480829999998,
+    "altitude": 69.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "archived": true,
+  "url": "https://photos.google.com/photo/AF1QipN5Yrp_Y83FNLBP68WTgxDog-5qml5zxOgbjCSH",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

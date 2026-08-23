@@ -1,0 +1,37 @@
+{
+  "title": "IMG_20180221_010305.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1519203817",
+    "formatted": "Feb 21, 2018, 9:03:37 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1519203786",
+    "formatted": "Feb 21, 2018, 9:03:06 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5321806,
+    "longitude": -122.87468059999999,
+    "altitude": 19.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5321806,
+    "longitude": -122.87468059999999,
+    "altitude": 19.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "archived": true,
+  "url": "https://photos.google.com/photo/AF1QipOhj2U29OpxR4fS5JIkxGkJpl7BwasUlKa66N6v",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
